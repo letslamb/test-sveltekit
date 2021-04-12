@@ -1,5 +1,6 @@
-const node = require('@sveltejs/adapter-node');
+// const node = require('@sveltejs/adapter-node');
 const pkg = require('./package.json');
+const netlify = require('@sveltejs/adapter-netlify')
 
 /** @type {import('@sveltejs/kit').Config} */
 module.exports = {

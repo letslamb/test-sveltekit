@@ -15,6 +15,7 @@
 		text-align: center;
 		padding: 1em;
 		margin: 0 auto;
+    min-height: 100vh;
 	}
 
 	h1 {
